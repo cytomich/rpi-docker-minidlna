@@ -1,6 +1,8 @@
 # minidnla in docker for Raspberry Pi
 
-It can be configured with environment variables. Prefix any config directive of minidlna with `MINIDLNA_`.
+It can be configured with environment variables.
+
+Prefix any config directive of minidlna with `MINIDLNA_`.
 
 Info about directives here: http://manpages.ubuntu.com/manpages/raring/man5/minidlna.conf.5.html
 
